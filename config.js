@@ -1,10 +1,11 @@
 const admin = require("firebase-admin");
 
-const serviceAccount = require("./trophy-king-docs.json");
+// const serviceAccount = require("./trophy-king-docs.json");
+const serviceAccount = require("./xeniverse.json");
 
 const options = {
     credential: admin.credential.cert(serviceAccount),
-    databaseURL: "//trophy-king-docs.firebaseapp.com",
+    databaseURL: "//xeniverse.firebaseapp.com",
 };
 
 const middleware = admin.initializeApp(options);
