@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+/**
+ * Module dependencies.
+ */
+
+const reset = require("../tourney-reset");

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trophy-king-docs",
+  "private_key_id": "68219781fc2c5c4d4e45659ba7cb913af12b769f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwY0a8qEf55rbN\nelYl3f6rWDPHmbPaFDZLuzwVemlnHrZar9Rx1lTkzjj8tlni6JUdyu4+pM7imN5d\nL2aEzkI1ImhltrDBwHLI2pnbOgFlzXzC5/VTLHrs6O7aEX38Y8JAsHlxA1u+N93H\nRbfFZBjEuG9Hyamj1MqGq493wCXcz/guhf6ApG+lT88xbiqpbFlqL2LiJCAW4vw1\nBOCbsMyuKw2iJv7COcYmGxdSNh8vTy9sZ4lx0nt5fIM5HvGGizzyoCjcYLEPPEMr\nZ+xj/gANCs7RH+viDN64Za+nB4XyL0NdWXq/XM2nfQKsRnlIrpso5TpHkxonAsRZ\ncxsOh3WrAgMBAAECggEAAZXcoIPOekFEVwc998MNqKmaym3g2eermmAZZVIGg/Nf\n4o46znA+dd/Ma+JnCd7MvvvAWTogxiL1gLM/3kHUHxIHmhPGPNTrDBcBk8t5SWiu\n6sgBgoq0wF4LY42bsjrGNEGlXcpmGoj6H9WtwK2cQWG7OW+R+n5GTi6SBdOUI4r9\nlJwJ1yCy+Qc35boIuPRN5mTfBMS5sAV43fCKF5y40zv0CicFVztCdGw+8rYthCXb\nJMxw2jkVkysbqBV9avY5Mdf/jWJ5Ya+CzWNjlfL8YV1qj+lTkLAsQGi/Joa4QZ3j\nK038zAEbMYiC1AwXetN/MOIe9lqN94XBvt/yvoYZKQKBgQD01rB8jYANC2UNDenJ\nh434awTF2TkO8fAtSyTHT7AdR9rGei6iLURaNr8ARr/FJtsQ4xDa46rmjPPZwXMq\nUsqSwNNkmm3bB7PPHgo9OkOcPfG0y74MAszuiNc8Xiq4PzsmFsUPxpxRr4QzqLvd\njTe7OPDiD60o5ULZzUqKEAoCAwKBgQC4bcDi3Ux4ECoMW4NQpZyHX0NNcYZ0E4T6\nGPLkq1T5r51lXN4k5HhMXy4zKr8kzHBGPBCZKjOMaXj40XKUeONjcn6iGKaR36U2\n16ijjC5IhMAKpMgou47RriUPO8jVkZJ/BjEX2NnxWFCJPHWwErs4I7qP+mVVDyrI\nQQKbwBkBOQKBgBi+JYHAzwMCdsjV8h1irI9BSW8xH5oKCyqYoHPf8r1SyKIsMNBE\n4NZ5F95QSAsFfTf8qnRkc53u+qmz6g6J5VzlTbep/5YV9i7lK0W6wKBmhimuOVt/\nYPRuMcow/gI2qaSUwn9wo9WBdku+LpYaMlqiS32c9fPfD11xaKoBKvG/AoGAEv1a\nCwH2SbaAXd1eXANxZo7sgyDZU0JfQtEm0VzC1yK59iHlza6opFR4kVQpckSKmvC8\nVMj/ncmOZzBJt/fqkebMGyymmgaJIGh8OLrKWTUyAOaOpYMKZZSkxDjHqRXgG6wr\nieUOK8eII1lSVNrY5CLppsGFhYiWQyBOgHL7ICECgYEAsGrzLDRPtOvtHPr3zKij\nHXe4yOe5QT4PAzxsQ53RAsvOhXGwiPmx5XIGShDL6bY0q1kMNDgJ48neRC81NPS1\nfOBBGiwAUpT3XFhEfvUbKEvutjzlEKT3ggtGeXjFrROtI+PaX0ayN8+Zk/zbNrqz\n817IHmc8aBgnqAQ+BCEkOms=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-y84tq@trophy-king-docs.iam.gserviceaccount.com",
+  "client_id": "116282776512847802259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-y84tq%40trophy-king-docs.iam.gserviceaccount.com"
+}

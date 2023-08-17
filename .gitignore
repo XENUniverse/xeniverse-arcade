@@ -1,0 +1,10 @@
+.env
+*.key
+*.cer
+
+node_modules/
+
+.idea/
+.idea/*
+.idea/*.xml
+.idea/workspace.xml
