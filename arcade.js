@@ -2825,7 +2825,7 @@ io.on("connection", (socket) => {
                 if (Utils.contract["arcade"]) {
                     let exchange = false;
                     let mining = false;
-                    let non_refundable = false;
+                    let non_refundable = true;
 
                     switch (lobby) {
                         case "xen":
