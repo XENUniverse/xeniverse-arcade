@@ -5,7 +5,7 @@ const serviceAccount = require("./xeniverse.json");
 
 const options = {
     credential: admin.credential.cert(serviceAccount),
-    databaseURL: "//xeniverse.firebaseapp.com",
+    databaseURL: "//xeniverse-alpha.firebaseapp.com",
 };
 
 const middleware = admin.initializeApp(options);

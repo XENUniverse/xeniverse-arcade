@@ -149,7 +149,7 @@ const LIVE_INDEX = [4, 5, 6, 7];
 const DEFLATING_INDEX = [11, 12];
 const STAKING_INDEX = [13];
 const EMERGING_INDEX = [8, 9, 10];
-const XEN_INDEX = [];
+const XEN_INDEX = [0, 1, 2];
 const PRACTICE_INDEX = [-1];
 const TEWKEN_INDEX = [14];
 
