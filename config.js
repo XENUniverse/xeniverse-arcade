@@ -33,7 +33,7 @@ const networkConfig = (key) =>
             API_KEY: "48e08d3cdaa14b3585dbffa02ca36d1a",
             CHAIN_ID: 5,
             HOST: "https://goerli.infura.io/v3/48e08d3cdaa14b3585dbffa02ca36d1a",
-            ARCADE_ADDRESS: "0xDA2D4707fD28e354f1A4116DB8997062ebB58821",
+            ARCADE_ADDRESS: "0x18b715C581935652adA62B11F6b18Ab0e8474de3",
             ROOT_ADDRESS: "0x6b9E41bE828027Bf199b9bC4167A31566daB6B62",
             XEN_ADDRESS: "0xca41f293A32d25c2216bC4B30f5b0Ab61b6ed2CB",
             FACTORY_ADDRESS: "",
